@@ -15,6 +15,9 @@
 from expression import Expression
 import math
 
+def hello():
+	print 'hello'
+
 #class representing the math functions and a dictionnary of all of them
 class Maths:
 	Expressions = {}
